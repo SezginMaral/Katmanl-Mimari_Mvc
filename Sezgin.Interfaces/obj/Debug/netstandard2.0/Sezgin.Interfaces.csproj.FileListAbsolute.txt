@@ -1,0 +1,12 @@
+C:\Users\sezgi\source\repos\SezginMaral_KatmanliMimariMVC\Sezgin.Interfaces\bin\Debug\netstandard2.0\Sezgin.Interfaces.deps.json
+C:\Users\sezgi\source\repos\SezginMaral_KatmanliMimariMVC\Sezgin.Interfaces\bin\Debug\netstandard2.0\Sezgin.Interfaces.dll
+C:\Users\sezgi\source\repos\SezginMaral_KatmanliMimariMVC\Sezgin.Interfaces\bin\Debug\netstandard2.0\Sezgin.Interfaces.pdb
+C:\Users\sezgi\source\repos\SezginMaral_KatmanliMimariMVC\Sezgin.Interfaces\bin\Debug\netstandard2.0\Sezgin.Entities.dll
+C:\Users\sezgi\source\repos\SezginMaral_KatmanliMimariMVC\Sezgin.Interfaces\bin\Debug\netstandard2.0\Sezgin.Entities.pdb
+C:\Users\sezgi\source\repos\SezginMaral_KatmanliMimariMVC\Sezgin.Interfaces\obj\Debug\netstandard2.0\Sezgin.Interfaces.csprojAssemblyReference.cache
+C:\Users\sezgi\source\repos\SezginMaral_KatmanliMimariMVC\Sezgin.Interfaces\obj\Debug\netstandard2.0\Sezgin.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\sezgi\source\repos\SezginMaral_KatmanliMimariMVC\Sezgin.Interfaces\obj\Debug\netstandard2.0\Sezgin.Interfaces.AssemblyInfoInputs.cache
+C:\Users\sezgi\source\repos\SezginMaral_KatmanliMimariMVC\Sezgin.Interfaces\obj\Debug\netstandard2.0\Sezgin.Interfaces.AssemblyInfo.cs
+C:\Users\sezgi\source\repos\SezginMaral_KatmanliMimariMVC\Sezgin.Interfaces\obj\Debug\netstandard2.0\Sezgin.Interfaces.csproj.CopyComplete
+C:\Users\sezgi\source\repos\SezginMaral_KatmanliMimariMVC\Sezgin.Interfaces\obj\Debug\netstandard2.0\Sezgin.Interfaces.dll
+C:\Users\sezgi\source\repos\SezginMaral_KatmanliMimariMVC\Sezgin.Interfaces\obj\Debug\netstandard2.0\Sezgin.Interfaces.pdb

@@ -1,0 +1,12 @@
+C:\Users\sezgi\source\repos\SezginMaral_KatmanliMimariMVC\Sezgin.Dal\bin\Debug\netstandard2.0\Sezgin.Dal.deps.json
+C:\Users\sezgi\source\repos\SezginMaral_KatmanliMimariMVC\Sezgin.Dal\bin\Debug\netstandard2.0\Sezgin.Dal.dll
+C:\Users\sezgi\source\repos\SezginMaral_KatmanliMimariMVC\Sezgin.Dal\bin\Debug\netstandard2.0\Sezgin.Dal.pdb
+C:\Users\sezgi\source\repos\SezginMaral_KatmanliMimariMVC\Sezgin.Dal\obj\Debug\netstandard2.0\Sezgin.Dal.csprojAssemblyReference.cache
+C:\Users\sezgi\source\repos\SezginMaral_KatmanliMimariMVC\Sezgin.Dal\obj\Debug\netstandard2.0\Sezgin.Dal.csproj.CoreCompileInputs.cache
+C:\Users\sezgi\source\repos\SezginMaral_KatmanliMimariMVC\Sezgin.Dal\obj\Debug\netstandard2.0\Sezgin.Dal.AssemblyInfoInputs.cache
+C:\Users\sezgi\source\repos\SezginMaral_KatmanliMimariMVC\Sezgin.Dal\obj\Debug\netstandard2.0\Sezgin.Dal.AssemblyInfo.cs
+C:\Users\sezgi\source\repos\SezginMaral_KatmanliMimariMVC\Sezgin.Dal\obj\Debug\netstandard2.0\Sezgin.Dal.dll
+C:\Users\sezgi\source\repos\SezginMaral_KatmanliMimariMVC\Sezgin.Dal\obj\Debug\netstandard2.0\Sezgin.Dal.pdb
+C:\Users\sezgi\source\repos\SezginMaral_KatmanliMimariMVC\Sezgin.Dal\bin\Debug\netstandard2.0\Sezgin.Entities.dll
+C:\Users\sezgi\source\repos\SezginMaral_KatmanliMimariMVC\Sezgin.Dal\bin\Debug\netstandard2.0\Sezgin.Entities.pdb
+C:\Users\sezgi\source\repos\SezginMaral_KatmanliMimariMVC\Sezgin.Dal\obj\Debug\netstandard2.0\Sezgin.Dal.csproj.CopyComplete

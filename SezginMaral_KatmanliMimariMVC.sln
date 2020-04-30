@@ -1,0 +1,87 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sezgin.Dal", "Sezgin.Dal\Sezgin.Dal.csproj", "{AA7A7572-19B4-4437-8CE7-3D41E5B1A431}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sezgin.Bll", "Sezgin.Bll\Sezgin.Bll.csproj", "{93DBA9C1-CD26-4AE1-B99F-4E006D231E85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sezgin.WcfLibrary", "Sezgin.WcfLibrary\Sezgin.WcfLibrary.csproj", "{429CC2B5-2E23-479B-AD0A-C43052DC4025}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sezgin.Entities", "Sezgin.Entities\Sezgin.Entities.csproj", "{BF21C163-D336-4AB1-883C-297511B30465}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Sezgin.WcfIISHost(3)", "Sezgin.WcfIISHost\", "{C9F9298E-D420-4B8C-918B-22D862E2E5B8}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_60266"
+		Debug.AspNetCompiler.PhysicalPath = "Sezgin.WcfIISHost\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60266\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_60266"
+		Release.AspNetCompiler.PhysicalPath = "Sezgin.WcfIISHost\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60266\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "60266"
+		SlnRelativePath = "Sezgin.WcfIISHost\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sezgin.MvcWebUI", "Sezgin.MvcWebUI\Sezgin.MvcWebUI.csproj", "{BEEBFA17-3817-4624-A17B-0FDC332B8464}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sezgin.MvcWebUI.Tests", "Sezgin.MvcWebUI.Tests\Sezgin.MvcWebUI.Tests.csproj", "{976980C3-BAF9-480C-BA38-96FD88511A7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sezgin.Interfaces", "Sezgin.Interfaces\Sezgin.Interfaces.csproj", "{1B37DBC4-507A-46DA-AD5B-A9A1B71FFD29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA7A7572-19B4-4437-8CE7-3D41E5B1A431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA7A7572-19B4-4437-8CE7-3D41E5B1A431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA7A7572-19B4-4437-8CE7-3D41E5B1A431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA7A7572-19B4-4437-8CE7-3D41E5B1A431}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93DBA9C1-CD26-4AE1-B99F-4E006D231E85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93DBA9C1-CD26-4AE1-B99F-4E006D231E85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93DBA9C1-CD26-4AE1-B99F-4E006D231E85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93DBA9C1-CD26-4AE1-B99F-4E006D231E85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{429CC2B5-2E23-479B-AD0A-C43052DC4025}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{429CC2B5-2E23-479B-AD0A-C43052DC4025}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{429CC2B5-2E23-479B-AD0A-C43052DC4025}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{429CC2B5-2E23-479B-AD0A-C43052DC4025}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF21C163-D336-4AB1-883C-297511B30465}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF21C163-D336-4AB1-883C-297511B30465}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF21C163-D336-4AB1-883C-297511B30465}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF21C163-D336-4AB1-883C-297511B30465}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9F9298E-D420-4B8C-918B-22D862E2E5B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9F9298E-D420-4B8C-918B-22D862E2E5B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9F9298E-D420-4B8C-918B-22D862E2E5B8}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9F9298E-D420-4B8C-918B-22D862E2E5B8}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{BEEBFA17-3817-4624-A17B-0FDC332B8464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEEBFA17-3817-4624-A17B-0FDC332B8464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEEBFA17-3817-4624-A17B-0FDC332B8464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEEBFA17-3817-4624-A17B-0FDC332B8464}.Release|Any CPU.Build.0 = Release|Any CPU
+		{976980C3-BAF9-480C-BA38-96FD88511A7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{976980C3-BAF9-480C-BA38-96FD88511A7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{976980C3-BAF9-480C-BA38-96FD88511A7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{976980C3-BAF9-480C-BA38-96FD88511A7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B37DBC4-507A-46DA-AD5B-A9A1B71FFD29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B37DBC4-507A-46DA-AD5B-A9A1B71FFD29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B37DBC4-507A-46DA-AD5B-A9A1B71FFD29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B37DBC4-507A-46DA-AD5B-A9A1B71FFD29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {085066F5-6AFB-437E-90B3-D3C893DEB272}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\Users\sezgi\source\repos\SezginMaral_KatmanliMimariMVC\Sezgin.Bll\bin\Debug\netstandard2.0\Sezgin.Bll.deps.json
+C:\Users\sezgi\source\repos\SezginMaral_KatmanliMimariMVC\Sezgin.Bll\bin\Debug\netstandard2.0\Sezgin.Bll.dll
+C:\Users\sezgi\source\repos\SezginMaral_KatmanliMimariMVC\Sezgin.Bll\bin\Debug\netstandard2.0\Sezgin.Bll.pdb
+C:\Users\sezgi\source\repos\SezginMaral_KatmanliMimariMVC\Sezgin.Bll\obj\Debug\netstandard2.0\Sezgin.Bll.csprojAssemblyReference.cache
+C:\Users\sezgi\source\repos\SezginMaral_KatmanliMimariMVC\Sezgin.Bll\obj\Debug\netstandard2.0\Sezgin.Bll.csproj.CoreCompileInputs.cache
+C:\Users\sezgi\source\repos\SezginMaral_KatmanliMimariMVC\Sezgin.Bll\obj\Debug\netstandard2.0\Sezgin.Bll.AssemblyInfoInputs.cache
+C:\Users\sezgi\source\repos\SezginMaral_KatmanliMimariMVC\Sezgin.Bll\obj\Debug\netstandard2.0\Sezgin.Bll.AssemblyInfo.cs
+C:\Users\sezgi\source\repos\SezginMaral_KatmanliMimariMVC\Sezgin.Bll\obj\Debug\netstandard2.0\Sezgin.Bll.dll
+C:\Users\sezgi\source\repos\SezginMaral_KatmanliMimariMVC\Sezgin.Bll\obj\Debug\netstandard2.0\Sezgin.Bll.pdb

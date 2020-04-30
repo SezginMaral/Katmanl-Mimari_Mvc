@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Abstruct\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Sezgin.Dal\Sezgin.Dal.csproj" />
+    <ProjectReference Include="..\Sezgin.Interfaces\Sezgin.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>

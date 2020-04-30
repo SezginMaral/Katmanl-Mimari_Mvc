@@ -1,0 +1,7 @@
+C:\Users\sezgi\source\repos\SezginMaral_KatmanliMimariMVC\Sezgin.WcfLibrary\bin\Debug\Sezgin.WcfLibrary.dll.config
+C:\Users\sezgi\source\repos\SezginMaral_KatmanliMimariMVC\Sezgin.WcfLibrary\bin\Debug\Sezgin.WcfLibrary.dll
+C:\Users\sezgi\source\repos\SezginMaral_KatmanliMimariMVC\Sezgin.WcfLibrary\bin\Debug\Sezgin.WcfLibrary.pdb
+C:\Users\sezgi\source\repos\SezginMaral_KatmanliMimariMVC\Sezgin.WcfLibrary\obj\Debug\Sezgin.WcfLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sezgi\source\repos\SezginMaral_KatmanliMimariMVC\Sezgin.WcfLibrary\obj\Debug\Sezgin.WcfLibrary.dll
+C:\Users\sezgi\source\repos\SezginMaral_KatmanliMimariMVC\Sezgin.WcfLibrary\obj\Debug\Sezgin.WcfLibrary.pdb
+C:\Users\sezgi\source\repos\SezginMaral_KatmanliMimariMVC\Sezgin.WcfLibrary\obj\Debug\Sezgin.WcfLibrary.csprojAssemblyReference.cache

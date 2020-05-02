@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
-    "signature": "cfe1dc2a80602aef150a12815387068463a61a0d"
+    "signature": "df55e0ca1b1abec015701a455989d46e3e3cb5de"
   },
   "compilationOptions": {},
   "targets": {
@@ -9,12 +9,14 @@
     ".NETStandard,Version=v2.0/": {
       "Sezgin.Entities/1.0.0": {
         "dependencies": {
+          "EntityFramework": "6.4.0",
           "NETStandard.Library": "2.0.3"
         },
         "runtime": {
           "Sezgin.Entities.dll": {}
         }
       },
+      "EntityFramework/6.4.0": {},
       "Microsoft.NETCore.Platforms/1.1.0": {},
       "NETStandard.Library/2.0.3": {
         "dependencies": {
@@ -28,6 +30,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "EntityFramework/6.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7jDmcQ3jaN5G7ZJC7Ecq161zQBs/5LqRzBdZ/I4XfmSvOwteGgNjOi30kthFador4Qjo3qUU6iOB1H04GIXrpg==",
+      "path": "entityframework/6.4.0",
+      "hashPath": "entityframework.6.4.0.nupkg.sha512"
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
       "type": "package",

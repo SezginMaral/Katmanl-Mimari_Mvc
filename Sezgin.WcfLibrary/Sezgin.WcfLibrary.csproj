@@ -15,6 +15,8 @@
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <WcfConfigValidationEnabled>True</WcfConfigValidationEnabled>
     <XsdCodeGenEnabled>True</XsdCodeGenEnabled>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -36,6 +38,7 @@
   <ItemGroup>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
     <Reference Include="System.Data" />
     <Reference Include="System.Runtime.Serialization" />
@@ -51,6 +54,14 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Sezgin.Bll\Sezgin.Bll.csproj">
+      <Project>{93DBA9C1-CD26-4AE1-B99F-4E006D231E85}</Project>
+      <Name>Sezgin.Bll</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Sezgin.Dal\Sezgin.Dal.csproj">
+      <Project>{AA7A7572-19B4-4437-8CE7-3D41E5B1A431}</Project>
+      <Name>Sezgin.Dal</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Sezgin.Entities\Sezgin.Entities.csproj">
       <Project>{BF21C163-D336-4AB1-883C-297511B30465}</Project>
       <Name>Sezgin.Entities</Name>

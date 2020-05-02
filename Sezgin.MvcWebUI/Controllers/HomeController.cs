@@ -1,4 +1,7 @@
-﻿using System;
+﻿using Sezgin.Bll.Concrete;
+using Sezgin.Dal.Concrete.EntityFramework;
+using Sezgin.Entities;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -8,9 +11,11 @@ namespace Sezgin.MvcWebUI.Controllers
 {
     public class HomeController : Controller
     {
-        public ActionResult Index()
+        public ViewResult Index()
         {
-            return View();
+            ProductManager productManager = new ProductManager(new EfProductDal());
+            List<Product> products = productManager.GetAll();  
+            return View(products);
         }
 
         public ActionResult About()

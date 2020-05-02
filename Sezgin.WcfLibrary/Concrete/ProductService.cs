@@ -1,4 +1,6 @@
-﻿using Sezgin.Entities;
+﻿using Sezgin.Bll.Concrete;
+using Sezgin.Dal.Concrete.EntityFramework;
+using Sezgin.Entities;
 using Sezgin.Interfaces;
 using System;
 using System.Collections.Generic;
@@ -9,30 +11,33 @@ using System.Threading.Tasks;
 namespace Sezgin.WcfLibrary.Concrete
 {
     public class ProductService : IProductSevice
-    {
+    { //NOT: servislerin constractur ı olmaz
+
+        private ProductManager _productManager = new ProductManager(new EfProductDal());
+
         public void add(Product product)
         {
-            throw new NotImplementedException();
+            _productManager.add(product);
         }
 
         public void delete(int productId)
         {
-            throw new NotImplementedException();
+            _productManager.delete(productId);
         }
 
         public Product Get(int productId)
         {
-            throw new NotImplementedException();
+            return _productManager.Get(productId);
         }
 
         public List<Product> GetAll()
         {
-            throw new NotImplementedException();
+            return _productManager.GetAll();
         }
 
         public void Update(Product product)
         {
-            throw new NotImplementedException();
+            _productManager.Update(product);
         }
     }
 }

@@ -9,6 +9,11 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="EntityFramework" Version="6.4.0" />
+    <PackageReference Include="Microsoft.AspNet.Identity.EntityFramework" Version="2.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Sezgin.Dal\Sezgin.Dal.csproj" />
     <ProjectReference Include="..\Sezgin.Interfaces\Sezgin.Interfaces.csproj" />
   </ItemGroup>

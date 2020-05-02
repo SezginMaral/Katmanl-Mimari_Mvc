@@ -11,9 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sezgin.WcfLibrary", "Sezgin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sezgin.Entities", "Sezgin.Entities\Sezgin.Entities.csproj", "{BF21C163-D336-4AB1-883C-297511B30465}"
 EndProject
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Sezgin.WcfIISHost(3)", "Sezgin.WcfIISHost\", "{C9F9298E-D420-4B8C-918B-22D862E2E5B8}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Sezgin.WcfIISHost", "Sezgin.WcfIISHost\", "{C9F9298E-D420-4B8C-918B-22D862E2E5B8}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		ProjectReferences = "{429cc2b5-2e23-479b-ad0a-c43052dc4025}|Sezgin.WcfLibrary.dll;{93DBA9C1-CD26-4AE1-B99F-4E006D231E85}|Sezgin.Bll.dll;{AA7A7572-19B4-4437-8CE7-3D41E5B1A431}|Sezgin.Dal.dll;{BF21C163-D336-4AB1-883C-297511B30465}|Sezgin.Entities.dll;{1B37DBC4-507A-46DA-AD5B-A9A1B71FFD29}|Sezgin.Interfaces.dll;"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_60266"
 		Debug.AspNetCompiler.PhysicalPath = "Sezgin.WcfIISHost\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60266\"
@@ -37,7 +38,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sezgin.MvcWebUI", "Sezgin.M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sezgin.MvcWebUI.Tests", "Sezgin.MvcWebUI.Tests\Sezgin.MvcWebUI.Tests.csproj", "{976980C3-BAF9-480C-BA38-96FD88511A7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sezgin.Interfaces", "Sezgin.Interfaces\Sezgin.Interfaces.csproj", "{1B37DBC4-507A-46DA-AD5B-A9A1B71FFD29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sezgin.Interfaces", "Sezgin.Interfaces\Sezgin.Interfaces.csproj", "{1B37DBC4-507A-46DA-AD5B-A9A1B71FFD29}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
